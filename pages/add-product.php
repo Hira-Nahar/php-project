@@ -27,28 +27,28 @@
                             <div class="form-group row">
                                 <label class="col-form-label col-md-3">Stock Amount</label>
                                 <div class="col-md-9">
-                                    <input class="form-control" type="number" name="product-name"/>
+                                    <input class="form-control" type="number" name="stock"/>
                                 </div>
                             </div>
 
                             <div class="form-group row">
                                 <label class="col-form-label col-md-3">Category Name</label>
                                 <div class="col-md-9">
-                                    <input class="form-control" type="text" name="product-name"/>
+                                    <input class="form-control" type="text" name="categoryName"/>
                                 </div>
                             </div>
 
                             <div class="form-group row">
                                 <label class="col-form-label col-md-3">Brand Name</label>
                                 <div class="col-md-9">
-                                    <input class="form-control" type="text" name="product-name"/>
+                                    <input class="form-control" type="text" name="brandName"/>
                                 </div>
                             </div>
 
                             <div class="form-group row">
                                 <label class="col-form-label col-md-3">Image</label>
                                 <div class="col-md-9">
-                                    <input for="formFile" class="form-control" type ="file" name="product-name"/>
+                                    <input for="formFile" class="form-control" type ="file"/>
                                 </div>
                             </div>
 
