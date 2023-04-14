@@ -12,13 +12,13 @@
 </head>
 <body>
     <?php if (isset($_SESSION['id'])) {?>
-<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark ">
     <div class="container">
         <a href="" class="navbar-brand">BHS</a>
-        <ul class="navbar-nav">
-            <li><a href="home.php" class="nav-link">Add-product</a></li>
-            <li><a href="manage.php" class="nav-link">Manage-product</a></li>
-            <li><a href="password.php" class="nav-link">Password</a></li>
+        <ul class="navbar-nav text-white">
+            <li><a href="add-product.php" class="nav-link text-white">Add-product</a></li>
+            <li><a href="manage.php" class="nav-link text-white">Manage-product</a></li>
+            <li><a href="password.php" class="nav-link text-white">Password</a></li>
             
             <li class="dropdown">
                 <a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">

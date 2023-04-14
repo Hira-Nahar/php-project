@@ -3,7 +3,7 @@
 <?php
     if(isset($_SESSION['id']))
     {
-        header('location:home.php');
+        header('location:add-product.php');
     }
 ?>
 
